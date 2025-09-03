@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094250398171",
+    "project_id": "firease-test-f1a5c",
+    "storage_bucket": "firease-test-f1a5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094250398171:android:824fb8ac166ce18f8567fe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKGMR5zR6QvWxWrq4m3VunIAsS_e7vkhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
